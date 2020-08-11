@@ -41,7 +41,7 @@ Once you begin, you will have 15 minutes to answer the questions [here](https://
 
 The completion of these questions is mandatory for MVP. However, passing the quiz doesn't affect your standing as a Lambda School student whatsoever. This is Lambda School testing itself! Please answer honestly and to the best of your ability without using external references.
 
-### Task 3: Stretch Goals
+### Task 3: Stretch Goalsaadasfasdf
 
 - [ ]  Create more dummy data in the dummy-data.js file and add search functionality to the search bar. One way to do this is with a filter method.
 - [ ]  Implement the ability to add comments to a post using an input.
